@@ -13,15 +13,15 @@ Various reinforcement learning techniques were applied to the game of Connect Fo
 
 **Files**
 
-[Final Paper](Documents/Final Report - Connect Four.docx)
-[Final Paper (pdf)](Documents/Final Report - Connect Four.pdf)
-[Results](Results)
-[Release](Release.7z)
+-[Final Paper](Documents/Final Report - Connect Four.docx)
+-[Final Paper (pdf)](Documents/Final Report - Connect Four.pdf)
+-[Results](Results)
+-[Release](Release.7z)
 
 **Screenshots**
 
-![screenshot](Screenshots/board.png)
-![screenshot](Screenshots/playing.png)
-![screenshot](Screenshots/settings.png)
-![screenshot](Screenshots/neuralnetwork.png)
-![screenshot](Screenshots/training.png)
+-![screenshot](Screenshots/board.png)
+-![screenshot](Screenshots/playing.png)
+-![screenshot](Screenshots/settings.png)
+-![screenshot](Screenshots/neuralnetwork.png)
+-![screenshot](Screenshots/training.png)
