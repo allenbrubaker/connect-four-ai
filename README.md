@@ -20,8 +20,12 @@ Various reinforcement learning techniques were applied to the game of Connect Fo
 
 **Screenshots**
 
-- ![screenshot](Screenshots/board.png)
-- ![screenshot](Screenshots/playing.png)
-- ![screenshot](Screenshots/settings.png)
-- ![screenshot](Screenshots/neuralnetwork.png)
-- ![screenshot](Screenshots/training.png)
+![screenshot](Screenshots/board.png)
+---
+![screenshot](Screenshots/playing.png)
+---
+![screenshot](Screenshots/settings.png)
+---
+![screenshot](Screenshots/neuralnetwork.png)
+---
+![screenshot](Screenshots/training.png)
